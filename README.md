@@ -20,8 +20,9 @@
 
 - `git status`: shows the status of changes as untracked, modified, or staged.
 - `git add [file]`: adds a file to the staging area. Makes it included in the next commit.
+- `git add .`: updates everything
 - `git reset [file]`: unstages a file while retaining the changes in the working directory.
-
+  
 ## Committing
 
 - `git commit -m "Commit message"`: commits the staged files with a message describing the change.
