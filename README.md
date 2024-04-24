@@ -27,6 +27,7 @@
 - `git commit -m "Commit message"`: commits the staged files with a message describing the change.
 - `git commit -am "Commit message"`: combines adding files to the staging area and committing them in one step.
 - `git commit --amend -m "New commit message"`: replaces the last commit with the new commit and message.
+- `git log`: lists commits history.
 
 ## Collaborating and Sharing
 
